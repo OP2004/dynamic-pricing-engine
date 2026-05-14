@@ -1,3 +1,5 @@
+DashBoard Link = https://dynamic-pricing-engine-ri95.onrender.com
+
 🚀 Dynamic Pricing Engine (AI + Real-Time Streaming System)
 📌 Project Overview
 
