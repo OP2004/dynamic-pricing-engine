@@ -1,5 +1,5 @@
-apache-flink
 streamlit
 requests
 pandas
 plotly
+numpy
